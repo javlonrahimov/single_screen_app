@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UdacityProject</string>
+    <string name="mainimage">mainImage</string>
+    <string name="city_taxi">City Taxi</string>
+    <string name="what_can_we_offer">What can we offer?</string>
+    <string name="secure">Secure</string>
+    <string name="fast">Fast</string>
+    <string name="any_time">Any-time</string>
+    <string name="everywhere">Everywhere</string>
+    <string name="about_us">About us</string>
+    <string name="_998_90_123_45_67">+998 90 123 45 67</string>
+    <string name="citytaxi_gmail_com">citytaxi@gmail.com</string>
+    <string name="yunusabad_tashkent">Yunusabad, Tashkent</string>
+    <string name="logo">logo</string>
+    <string name="phone">phone</string>
+    <string name="email">email</string>
+    <string name="location">location</string>
+</resources>
