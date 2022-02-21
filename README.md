@@ -1,1 +1,1 @@
-"# single_screen_app" 
+# Single screen app 
